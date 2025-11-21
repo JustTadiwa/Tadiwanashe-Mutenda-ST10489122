@@ -1,0 +1,47 @@
+Dear ma'am,
+
+Thank you for your feedback on Part 2 of my POE. I have carefully reviewed your comments and have made the following corrections to ensure my implementation aligns with what was taught in class:
+
+CORRECTIONS MADE:
+
+1. MENU USING JOPTIONPANE (NOT CONSOLE)
+   - Replaced all System.out.println() and Scanner input with JOptionPane.showMessageDialog() and JOptionPane.showInputDialog()
+   - The numeric menu now displays correctly using GUI dialogs as required
+
+2. MESSAGE ID CREATION USING STRING MANIPULATION AND LOOP COUNTER
+   - Removed random number generation for Message ID
+   - Now creating Message ID using string manipulation (substring) and the loop counter:
+     Example: "Msg" + messageNumber + "of" + totalMessages
+   - Using substring to ensure it's 10 characters or less as required
+
+3. MESSAGE NUMBER USING LOOP COUNTER
+   - Message number now directly uses the for loop counter (i + 1)
+   - Each message gets its sequential number based on its position in the loop
+
+4. OBJECT-ORIENTED MESSAGE CLASS
+   - Removed static methods from Message class
+   - Now creating proper Message objects with instance variables
+   - Each message has its own ID, hash, recipient, and text
+
+5. PROPER ARRAY USAGE
+   - Using basic arrays as taught in Learning Unit 6 (not ArrayLists)
+   - Manual JSON creation without external libraries
+
+6. UNIT TESTS UPDATED
+   - Updated test files to work with the new object-oriented design
+   - All tests now use the correct string manipulation and loop counter approaches
+
+The implementation now strictly follows:
+- Learning Unit 1-2: Objects and Classes (Message objects)
+- Learning Unit 3: Decision structures (if-else statements)
+- Learning Unit 4: Loop control structures (for loops)
+- Learning Unit 5: String manipulation (substring, length, split)
+- Learning Unit 6: Arrays (basic array operations)
+
+All functionality has been maintained while ensuring compliance with the course material from Joyce Farrell's Java programming textbook.
+
+Thank you for your guidance in helping me correct these issues.
+
+Best regards,
+Tadiwanashe Mutenda
+Student Number: ST10489122

@@ -1,0 +1,28 @@
+Reference:
+
+Oracle. (2024) JOptionPane — Java Swing Documentation. Oracle Corporation.
+Available at: https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html
+ (Accessed: 20 November 2025).
+
+Sebesta, R. W. (2018) Concepts of Programming Languages. 12th edn. Pearson.
+Used for: general programming, language constructs, hashing concepts.
+
+Savitch, W. (2018) Absolute Java. 6th edn. Pearson.
+Used for: object-oriented programming, method creation, constructors, classes.
+
+O’Reilly Media. (2020) Learning Java: An Introduction to Real-World Programming with Java.
+Used for: Java I/O, exception handling, storing files (JSON output).
+
+Shelly, G. & Vermaat, M. (2017) Discovering Computers: Digital Technology, Data and Software Systems. Cengage.
+Used for: understanding messaging systems, data storage, and systems interactions.
+
+Pressman, R. (2019) Software Engineering: A Practitioner’s Approach. 9th edn. McGraw-Hill.
+Used for: software design principles (validation, system reliability, modularity).
+
+As covered in our course materials (The Independent Institute of Education, 2025), the implementation uses arrays for message storage as taught in Learning Unit 6.
+
+The object-oriented approach follows the principles outlined by Farrell (2023) in chapters covering classes and objects.
+
+String manipulation techniques, including the use of substring methods, were implemented as per the course requirements (The Independent Institute of Education, 2025).
+
+The unit testing methodology aligns with the assessment criteria specified in the POE rubric (The Independent Institute of Education, 2025).
